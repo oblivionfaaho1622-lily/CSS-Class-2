@@ -1,0 +1,59 @@
+#blog1{
+    background-color: antiquewhite;
+}
+#title4{
+  color: rgb(180, 105, 44);
+  text-align: center;
+  font-size: 40px;
+
+}
+
+#title5{
+    color: rgb(179, 24, 174);
+    text-align: center;
+    font-size: 40px;
+    
+  }
+#details3{
+    font-size: 30px;
+    color: rgb(30, 97, 99);
+    font-family: Playfair Display;
+}
+
+
+#details4{
+    font-size: 30px;
+    color: rgb(99, 114, 8);
+    font-family: Montserrat;
+    line-height: 150%;
+}
+#more3{
+    text-decoration: none;
+    width: 90px ;
+    height: 50px;
+    background-color: rgb(114, 105, 232);
+    color: white;
+    display: block;
+    text-align: center;
+    line-height:50px ;
+}
+
+#more4{
+    text-decoration: none;
+    width: 90px ;
+    height: 50px;
+    background-color:rgb(102, 217, 156);
+    color: black;
+    display: block;
+    text-align: center;
+    line-height:50px ;
+}
+
+
+#details3 span{
+    font-size: 70px;
+}
+
+#details4 span{
+    font-size: 70px;
+}
